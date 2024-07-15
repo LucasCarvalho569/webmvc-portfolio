@@ -1,5 +1,5 @@
-# webmvc-portifolio
-This is a portifolio project, which the requirements were generate by IA, as follows.
+# webmvc-portfolio
+This is a portfolio project, which the requirements were generate by IA, as follows.
 
 ## Personal Website:
 Create a personal website that serves as your portfolio. Include sections such as an “About Me” page, projects you’ve worked on, your skills, and contact information.
